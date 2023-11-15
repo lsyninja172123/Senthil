@@ -5,7 +5,7 @@ public class UiDevelopment {
    System.out.println("UI developed");
 	}
 	public static void sub() {
-		   System.out.println("sub fields debeloped ");
+		   System.out.println("sub fields developed ");
 			}
 
 	public static void main(String[] args) {
