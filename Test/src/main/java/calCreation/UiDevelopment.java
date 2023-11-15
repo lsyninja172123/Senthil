@@ -7,9 +7,16 @@ public class UiDevelopment {
 	public static void sub() {
 		   System.out.println("sub fields developed ");
 			}
+	public static void sum() {
+		   System.out.println("sum fields developed ");
+			}
+	
+	
 
 	public static void main(String[] args) {
     add();
+    sub();
+    sum();
 	}
 
 }
