@@ -6,11 +6,14 @@ public class UiDevelopment {
 	}
 	public static void sub() {
 		   System.out.println("sub fields developed ");
+		   System.out.println("added");
 			}
+
 	public static void sum() {
-		   System.out.println("sum fields developed ");
+		   System.out.println("sum fields developed");
 			}
 	
+
 	
 
 	public static void main(String[] args) {
