@@ -8,7 +8,7 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 public class UiDevelopment {
 	public static void add() {
    System.out.println("UI1 developed");
-   System.out.println("UI2 developed");
+   System.out.println("UI3 developed");
 
 	}
 	public static void sub() {
